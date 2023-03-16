@@ -1,0 +1,11 @@
+C:\Users\aysen\source\repos\ButtonControl\ButtonControl\bin\Debug\ButtonControl.exe.config
+C:\Users\aysen\source\repos\ButtonControl\ButtonControl\bin\Debug\ButtonControl.exe
+C:\Users\aysen\source\repos\ButtonControl\ButtonControl\bin\Debug\ButtonControl.pdb
+C:\Users\aysen\source\repos\ButtonControl\ButtonControl\obj\Debug\ButtonControl.csproj.AssemblyReference.cache
+C:\Users\aysen\source\repos\ButtonControl\ButtonControl\obj\Debug\ButtonControl.csproj.SuggestedBindingRedirects.cache
+C:\Users\aysen\source\repos\ButtonControl\ButtonControl\obj\Debug\ButtonControl.Form1.resources
+C:\Users\aysen\source\repos\ButtonControl\ButtonControl\obj\Debug\ButtonControl.Properties.Resources.resources
+C:\Users\aysen\source\repos\ButtonControl\ButtonControl\obj\Debug\ButtonControl.csproj.GenerateResource.cache
+C:\Users\aysen\source\repos\ButtonControl\ButtonControl\obj\Debug\ButtonControl.csproj.CoreCompileInputs.cache
+C:\Users\aysen\source\repos\ButtonControl\ButtonControl\obj\Debug\ButtonControl.exe
+C:\Users\aysen\source\repos\ButtonControl\ButtonControl\obj\Debug\ButtonControl.pdb
